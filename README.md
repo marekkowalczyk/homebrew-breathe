@@ -1,6 +1,6 @@
 # Homebrew Tap for Breathe CLI
 
-Paced resonance breathing for vagal tone training. Terminal app, single file, no dependencies.
+Paced resonance breathing for vagal tone training. Terminal app, single file, no dependencies. macOS primary; Linux/Windows secondary (community-maintained).
 
 ## Install
 
@@ -15,7 +15,7 @@ Upgrade: `brew upgrade breathe`.
 ## Usage
 
 ```bash
-breathe                     # auto-select preset by time of day
+breathe                     # omakase: preset by time of day
 breathe --preset evening    # 15 min, 4-6
 breathe --preset night      # 20 min, 3-7 (pre-sleep)
 breathe --safety            # view safety information

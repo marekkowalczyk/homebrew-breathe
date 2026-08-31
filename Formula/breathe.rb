@@ -1,8 +1,8 @@
 class Breathe < Formula
   desc "Paced resonance breathing for vagal tone training"
   homepage "https://github.com/marekkowalczyk/breathe-cli"
-  url "https://github.com/marekkowalczyk/breathe-cli/archive/refs/tags/v1.13.0.tar.gz"
-  sha256 "41ab1578c9c37ae06e81af4c1878d72ece1b3c23fcc57c9e5c9c65af7e4d8396"
+  url "https://github.com/marekkowalczyk/breathe-cli/archive/refs/tags/v1.14.0.tar.gz"
+  sha256 "7eff35359860241a0217ae4a99aebbdf4f6f4f316ee02b6438ea6afdeb8f32ad"
   license "MIT"
 
   depends_on "python@3"
